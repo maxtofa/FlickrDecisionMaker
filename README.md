@@ -13,4 +13,4 @@ The idea come from my ugly experience with the Flickr organizer.
 
 At this time I have only some ideas that I've put in a ugly prototype not shown here.
 
-I'll try to use PhpFlickr library to interact with the Flickr API.
+I'll try to use [PhpFlickr](http://code.google.com/p/phpflickr/) library to interact with the Flickr API.
