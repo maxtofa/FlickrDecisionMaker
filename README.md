@@ -1,7 +1,7 @@
 FlickrDecisionMaker
 ===================
 
-FlickrDecisionMaker is a test to see if mobile devices have a suitable interface to quickly make decision about a photo on Flickr. For example if a photo is public or not, or if a photo belongs to a set or not.
+**FlickrDecisionMaker** is a test to see if mobile devices have a suitable interface to quickly make decision about a photo on Flickr. For example if a photo is public or not, or if a photo belongs to a set or not.
 
 The main idea is to have a stack of photos in the center of the screen. 
 You have two areas that can contain thumbnails of the photo. 
