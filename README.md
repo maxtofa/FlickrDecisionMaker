@@ -1,5 +1,6 @@
 FlickrDecisionMaker
 ===================
+![IMG_29572.jpg]({{site.baseurl}}/IMG_29572.jpg)
 
 **FlickrDecisionMaker** is a test to see if mobile devices have a suitable interface to quickly make decision about a photo on Flickr. For example if a photo is public or not, or if a photo belongs to a set or not.
 
@@ -14,5 +15,7 @@ The idea come from my ugly experience with the Flickr organizer.
 At this time I have only some ideas that I've put in a ugly prototype not shown here.
 
 I'll try to use [PhpFlickr](http://code.google.com/p/phpflickr/) library to interact with the Flickr API.
-![asfasfa]({{site.baseurl}}//IMG_29572.jpg)
+
+
+
 ####
