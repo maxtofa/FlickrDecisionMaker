@@ -1,6 +1,5 @@
 FlickrDecisionMaker
 ===================
-![IMG_29572.jpg]({{site.baseurl}}/IMG_29572.jpg)
 
 **FlickrDecisionMaker** is a test to see if mobile devices have a suitable interface to quickly make decision about a photo on Flickr. For example if a photo is public or not, or if a photo belongs to a set or not.
 
